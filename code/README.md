@@ -80,7 +80,7 @@ torchrun --nproc_per_node=4 --master_port=1234 train.py \
 
 
 ### Datasets
-- Please download our [InstructVul](https://drive.google.com/drive/folders/1A7vfAkImoX8yvZCeTtqZ_45aqF-r214K?usp=sharing) dataset from here.
+- Please look at "cwe_dataset.csv" file for the dataset.
 
 
 - Our N-day and zero-day samples are also available in the previous link under *Testing* directory.
