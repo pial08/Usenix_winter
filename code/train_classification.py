@@ -291,7 +291,7 @@ def read_data(data_path, model, tokenizer):
 
 def evaluate(model, tokenizer):
 
-    file_path = "data/andrew/instruct-repair-test.json"
+    file_path = "data/<filename>/instruct-repair-test.json"
     #df = pd.read_csv(file_path)
 
     total = counter = 300
